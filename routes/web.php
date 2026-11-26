@@ -7,7 +7,6 @@ Route::get('/', function () {
 });
 
 // TIJDELIJK: testdata 
-// Straks komt deze data uit de database via een controller.
 Route::get('/samenstelling', function () {
     $machine = (object) [
         'naam' => 'Weidemann 2060T',

@@ -6,4 +6,14 @@
 @theme {
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
+
+    /* Huisstijl Weidemann */
+    --color-weidemann-rood: #C8102E;
+    --color-weidemann-rood-donker: #9E0C24;
+    --color-weidemann-geel: #D8B265;
+    --color-weidemann-zwart: #1C1C1E;
+    --color-weidemann-tar: #2B2D32;
+    --color-weidemann-grijs: #55555A;
+    --color-weidemann-lijn: #E4E4E2;
+    --color-weidemann-achtergrond: #F8F8F7;
 }
